@@ -10,6 +10,7 @@ It calculates **landed cost, tariffs, freight, and SLA (lead time + shipping)**,
 ---
 
 ## 📂 Project Structure
+```
 clothing-procurement-report/
 ├─ sample_data/
 │ ├─ supplier_quotes.csv
@@ -20,7 +21,7 @@ clothing-procurement-report/
 ├─ auto_procurement_report.py # Main script
 ├─ README.md
 └─ .gitignore
-
+```
 ---
 
 ## ⚙️ Requirements
@@ -37,9 +38,7 @@ pip install pandas openpyxl
 
 1. **Clone this repository**
 git clone https://github.com/Angela0602/clothing-procurement-report.git
-
 cd clothing-procurement-report
-
 2. **Install required packages**
 pip install pandas openpyxl
 3. **Run the script**
