@@ -55,7 +55,7 @@ Procurement_Report_YYYY-MM-DD.xlsxIt contains three sheets:
 
 ## 📊 Example Output
 You can preview a sample report here:  
-👉 [Procurement_Report_sample.xlsx](sample_data/Procurement_Report_sample.xlsx)
+👉 [Procurement_Report_sample.xlsx](Procurement_Report_sample.xlsx)
 
 ---
 
