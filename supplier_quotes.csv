@@ -1,0 +1,55 @@
+sku,desc,hs_code,supplier,origin,currency,unit_price,preferred_mode,lead_time_days,moq,valid_until
+TSHIRT-COTTON,Men's Cotton T-Shirt,6109.10,BanglaText BD,BD,USD,10.9,sea,24,500,2025-11-09
+TSHIRT-COTTON,Men's Cotton T-Shirt,6109.10,TurkaModa TR,TR,EUR,8.44,sea,24,300,2025-11-01
+TSHIRT-COTTON,Men's Cotton T-Shirt,6109.10,NorthMX MX,MX,USD,4.37,truck,13,200,2025-10-02
+TSHIRT-POLY,Unisex Polyester T-Shirt,6109.90,NorthMX MX,MX,USD,12.95,truck,21,200,2025-11-27
+TSHIRT-POLY,Unisex Polyester T-Shirt,6109.90,BanglaText BD,BD,USD,14.05,sea,25,300,2025-11-27
+TSHIRT-POLY,Unisex Polyester T-Shirt,6109.90,EastWear CN,CN,USD,6.23,sea,25,100,2025-11-18
+POLO-COTTON,Men's Cotton Polo Shirt,6105.10,US Apparel,US,USD,5.85,truck,22,100,2025-10-05
+POLO-COTTON,Men's Cotton Polo Shirt,6105.10,BanglaText BD,BD,USD,12.04,sea,21,500,2025-11-28
+POLO-COTTON,Men's Cotton Polo Shirt,6105.10,NorthMX MX,MX,USD,12.6,truck,26,500,2025-10-31
+HOODIE-COTTON,Unisex Cotton Hoodie,6110.20,NorthMX MX,MX,USD,10.46,truck,16,100,2025-10-08
+HOODIE-COTTON,Unisex Cotton Hoodie,6110.20,TurkaModa TR,TR,EUR,6.3,sea,25,300,2025-10-19
+HOODIE-POLY,Unisex Polyester Hoodie,6110.30,US Apparel,US,USD,9.3,truck,12,100,2025-11-12
+HOODIE-POLY,Unisex Polyester Hoodie,6110.30,EastWear CN,CN,USD,11.27,sea,10,100,2025-10-10
+HOODIE-POLY,Unisex Polyester Hoodie,6110.30,VietStyle VN,VN,USD,8.42,sea,18,300,2025-10-11
+TRACKSUIT-COTTON,Unisex Cotton Tracksuit,6112.11,US Apparel,US,USD,13.64,truck,26,500,2025-09-30
+TRACKSUIT-COTTON,Unisex Cotton Tracksuit,6112.11,NorthMX MX,MX,USD,13.8,truck,32,300,2025-10-11
+TRACKSUIT-COTTON,Unisex Cotton Tracksuit,6112.11,BanglaText BD,BD,USD,11.82,sea,13,100,2025-10-28
+SWIM-M-SYN,Men's Swim Shorts (Synthetic),6112.31,EastWear CN,CN,USD,12.51,sea,34,100,2025-10-02
+SWIM-M-SYN,Men's Swim Shorts (Synthetic),6112.31,NorthMX MX,MX,USD,7.93,truck,21,500,2025-10-26
+TOP-OTHER-COT,Women's Knit Top (Cotton),6114.20,NorthMX MX,MX,USD,13.79,truck,10,100,2025-10-23
+TOP-OTHER-COT,Women's Knit Top (Cotton),6114.20,TurkaModa TR,TR,EUR,7.55,sea,29,100,2025-09-29
+TOP-OTHER-COT,Women's Knit Top (Cotton),6114.20,EastWear CN,CN,USD,2.09,sea,17,300,2025-10-05
+SOCKS-COTTON,Crew Socks (Cotton),6115.95,US Apparel,US,USD,5.17,truck,31,500,2025-11-17
+SOCKS-COTTON,Crew Socks (Cotton),6115.95,TurkaModa TR,TR,EUR,6.73,sea,26,200,2025-11-17
+SOCKS-COTTON,Crew Socks (Cotton),6115.95,VietStyle VN,VN,USD,5.21,sea,16,200,2025-09-29
+BRIEFS-W-POLY,Women's Briefs (Polyester),6108.92,VietStyle VN,VN,USD,9.92,sea,11,500,2025-11-19
+BRIEFS-W-POLY,Women's Briefs (Polyester),6108.92,BanglaText BD,BD,USD,2.43,sea,10,100,2025-10-15
+UNDERPANTS-M-COT,Men's Underpants (Cotton),6107.11,EastWear CN,CN,USD,9.19,sea,32,500,2025-11-20
+UNDERPANTS-M-COT,Men's Underpants (Cotton),6107.11,BanglaText BD,BD,USD,11.9,sea,26,300,2025-11-03
+UNDERPANTS-M-COT,Men's Underpants (Cotton),6107.11,US Apparel,US,USD,6.78,truck,29,200,2025-12-05
+SKIRT-KNIT-SYN,Women's Knit Skirt (Synthetic),6104.53,TurkaModa TR,TR,EUR,11.05,sea,12,500,2025-11-24
+SKIRT-KNIT-SYN,Women's Knit Skirt (Synthetic),6104.53,VietStyle VN,VN,USD,4.86,sea,12,300,2025-10-15
+SKIRT-KNIT-SYN,Women's Knit Skirt (Synthetic),6104.53,US Apparel,US,USD,6.53,truck,16,500,2025-10-29
+DRESS-KNIT-SYN,Women's Knit Dress (Synthetic),6104.13,US Apparel,US,USD,4.72,truck,19,300,2025-10-03
+DRESS-KNIT-SYN,Women's Knit Dress (Synthetic),6104.13,TurkaModa TR,TR,EUR,10.58,sea,25,100,2025-11-25
+DRESS-KNIT-SYN,Women's Knit Dress (Synthetic),6104.13,NorthMX MX,MX,USD,5.39,truck,10,500,2025-10-08
+LEGGINGS-KNIT-OTH,Women's Knit Leggings (Other Textile),6104.69,VietStyle VN,VN,USD,6.54,sea,25,500,2025-09-29
+LEGGINGS-KNIT-OTH,Women's Knit Leggings (Other Textile),6104.69,TurkaModa TR,TR,EUR,13.13,sea,31,500,2025-10-29
+GLOVES-COTTON,Knit Gloves (Cotton),6116.92,US Apparel,US,USD,9.88,truck,12,500,2025-10-21
+GLOVES-COTTON,Knit Gloves (Cotton),6116.92,NorthMX MX,MX,USD,2.07,truck,23,200,2025-12-01
+GLOVES-COTTON,Knit Gloves (Cotton),6116.92,VietStyle VN,VN,USD,10.99,sea,25,100,2025-11-06
+GLOVES-WOOL,Knit Gloves (Wool),6116.91,BanglaText BD,BD,USD,4.32,sea,33,500,2025-10-04
+GLOVES-WOOL,Knit Gloves (Wool),6116.91,NorthMX MX,MX,USD,13.04,truck,26,500,2025-10-29
+GLOVES-WOOL,Knit Gloves (Wool),6116.91,VietStyle VN,VN,USD,9.05,sea,28,200,2025-10-18
+ACCESS-OTHER,Other Clothing Accessories (Knit),6117.80,EastWear CN,CN,USD,10.2,sea,11,100,2025-10-26
+ACCESS-OTHER,Other Clothing Accessories (Knit),6117.80,TurkaModa TR,TR,EUR,10.39,sea,24,500,2025-12-04
+ACCESS-OTHER,Other Clothing Accessories (Knit),6117.80,VietStyle VN,VN,USD,4.99,sea,25,300,2025-09-30
+DRESS-WOVEN-SYN,Women's Woven Dress (Synthetic),6204.33,BanglaText BD,BD,USD,5.63,sea,15,300,2025-11-02
+DRESS-WOVEN-SYN,Women's Woven Dress (Synthetic),6204.33,NorthMX MX,MX,USD,14.07,truck,26,200,2025-11-18
+DRESS-WOVEN-COT,Women's Woven Dress (Cotton),6204.32,VietStyle VN,VN,USD,7.01,sea,32,100,2025-12-02
+DRESS-WOVEN-COT,Women's Woven Dress (Cotton),6204.32,NorthMX MX,MX,USD,4.2,truck,34,200,2025-11-19
+TECH-GARMENT-MENS,Men's Garment of Technical Fabrics,6210.40,EastWear CN,CN,USD,6.66,sea,19,200,2025-10-13
+TECH-GARMENT-MENS,Men's Garment of Technical Fabrics,6210.40,NorthMX MX,MX,USD,13.03,truck,18,300,2025-11-13
+TECH-GARMENT-MENS,Men's Garment of Technical Fabrics,6210.40,US Apparel,US,USD,9.19,truck,19,300,2025-10-22

@@ -1,0 +1,11 @@
+origin,mode,per_kg,min_charge,days
+CN,sea,1.8,200,23
+CN,air,6.5,90,5
+VN,sea,2.0,220,25
+VN,air,7.0,95,6
+BD,sea,2.2,230,27
+BD,air,7.2,95,7
+TR,sea,2.1,210,21
+TR,air,6.8,95,5
+MX,truck,1.6,120,6
+US,truck,1.4,110,3
